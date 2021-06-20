@@ -1,0 +1,10 @@
+
+.container{
+    background-color:grey;
+    
+}
+.box{
+    min-height: 50px;
+    background-color: salmon;
+    margin-bottom: 5px;
+}
